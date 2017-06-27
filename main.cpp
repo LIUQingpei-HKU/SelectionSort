@@ -5,7 +5,7 @@ using namespace std;
 
 void selectionSort(int arr[], int n){
     for(int i=0;i<n;i++){
-        //find the mninmum index
+        //find the minimum index
         //initialize
         int minIndex = i;
         //iterate
